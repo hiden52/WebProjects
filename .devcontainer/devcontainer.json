@@ -1,0 +1,16 @@
+{
+    "name": "Web_projects",
+
+    "extensions": [
+        "wscats.qf"
+        , "ecmel.vscode-html-css"
+        , "abusaidm.html-snippets"
+        , "zignd.html-css-class-completion"
+        , "xabikos.javascriptsnippets"
+        , "dbaeumer.jshint"
+        , "ritwickdey.liveserver"
+        , "pkief.material-icon-theme"
+        , "jprestidge.theme-material-theme"
+    ]
+
+}
