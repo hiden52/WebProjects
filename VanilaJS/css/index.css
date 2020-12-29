@@ -1,4 +1,5 @@
 body{
+    /* color: #34495e; */
     background-color: gainsboro;
 }
 
@@ -9,7 +10,13 @@ body{
     */
 }
 
-.form
+.form,
+.greetings
 {
-    
+    display: none;
+}
+
+.showing
+{
+    display:  block;
 }
