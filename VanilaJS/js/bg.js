@@ -11,7 +11,7 @@ function paintImage(imgNum)
 {
     const image = new Image();
     image.src = `./images/${imgNum + 1}.jpg`;
-    body.prepend(image);
+    body.appendChild(image);
     image.classList.add("bgImg");
 }
 
